@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I'm a Computer Science student currently enrolled in his 3rd Semester at FAST NUCES Islamabad.
+- Passionate about learning and evolving as a problem solver, I continuously find myself trying to learn newer and more efficient ways to think about problems.
+- Apart from college-related semester projects like PlantsVsZombies, I'm currently also working on my Front-End abilities as well as DSA.
 
 <!--
 **broilerchoocha87/broilerchoocha87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
